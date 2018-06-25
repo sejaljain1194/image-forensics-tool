@@ -28,6 +28,7 @@ A tool to detect whether an image forgery.
 #### 1. Command to run the image edit detection tool:
 + Go to the folder ImageForensicsTool
 + Open Terminal
++ $ chmod +x ImageForensicsTool 
 + $ ./ImageForensicsTool fullImageFilename
 
 Test: ./ImageForensicsTool testImages/a.jpg
