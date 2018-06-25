@@ -44,10 +44,14 @@ Copy Move detected Image:
 <img src="https://raw.githubusercontent.com/sejaljain1194/image-forensics-tool/master/screenshots/20180623_031816_lined_a.jpg" width="200">
 
 #### 2. Command to run ELA tool:
-+ Go to the folder ela/dist/ela
++ Go to the folder ela
 + Open Terminal
 + $ ./ela originalimage fakeimage
 
+Input Image:
+
+<img src="https://raw.githubusercontent.com/sejaljain1194/image-forensics-tool/master/screenshots/original_glass.jpg" width="200">
+
 Expected Output:
 
-
+<img src="https://raw.githubusercontent.com/sejaljain1194/image-forensics-tool/master/screenshots/using_ela_tool.PNG" width="200">
