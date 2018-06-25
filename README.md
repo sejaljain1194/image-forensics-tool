@@ -46,6 +46,7 @@ Copy Move detected Image:
 #### 2. Command to run ELA tool:
 + Go to the folder ela
 + Open Terminal
++ $ chmod +x ImageForensicsTool
 + $ ./ela originalimage fakeimage
 
 Input Image:
